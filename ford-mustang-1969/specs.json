@@ -1,0 +1,51 @@
+{
+  "id": "ford-mustang-1969",
+  "name": "Ford Mustang Mach 1",
+  "brand": "FORD",
+  "model": "MUSTANG MACH 1 · 428 COBRA JET",
+
+  "dimensions": {
+    "length": 4.762,
+    "width":  1.811,
+    "height": 1.295,
+    "wheelbase": 2.743
+  },
+
+  "mass": 1556,
+
+  "engine": {
+    "displayName": "7.0L 428 COBRA JET V8",
+    "powerPS":     340,
+    "powerRPM":    5200,
+    "torqueNm":    596,
+    "torqueRPM":   3400,
+    "redlineRPM":  6000,
+    "idleRPM":     750,
+    "cylinders":   8,
+    "aspiration":  "naturally-aspirated",
+    "vtecRPM":     null
+  },
+
+  "performance": {
+    "zeroToHundredS": 5.8,
+    "topSpeedKmh":    195
+  },
+
+  "drivetrain": {
+    "type":       "RWD",
+    "gearRatios": [2.78, 1.93, 1.36, 1.00],
+    "finalDrive": 3.91
+  },
+
+  "wheel": {
+    "radius": 0.343
+  },
+
+  "soundProfile": {
+    "character":      "v8-na-muscle",
+    "rumbleHzScale":  0.45,
+    "raspKickRPM":    4500,
+    "turboLoad":      0.0,
+    "bovOnShift":     false
+  }
+}
