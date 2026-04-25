@@ -1,0 +1,51 @@
+{
+  "id": "honda-civic-fl5",
+  "name": "Honda Civic Type R",
+  "brand": "HONDA",
+  "model": "CIVIC TYPE R · FL5",
+
+  "dimensions": {
+    "length": 4.593,
+    "width":  1.890,
+    "height": 1.407,
+    "wheelbase": 2.735
+  },
+
+  "mass": 1430,
+
+  "engine": {
+    "displayName": "2.0L K20C1 VTEC TURBO",
+    "powerPS":     329,
+    "powerRPM":    6500,
+    "torqueNm":    420,
+    "torqueRPM":   "2,600-4,000",
+    "redlineRPM":  7000,
+    "idleRPM":     900,
+    "cylinders":   4,
+    "aspiration":  "turbocharged",
+    "vtecRPM":     5200
+  },
+
+  "performance": {
+    "zeroToHundredS": 5.4,
+    "topSpeedKmh":    275
+  },
+
+  "drivetrain": {
+    "type":       "FWD",
+    "gearRatios": [3.87, 2.10, 1.36, 1.03, 0.82, 0.68],
+    "finalDrive": 4.11
+  },
+
+  "wheel": {
+    "radius": 0.329
+  },
+
+  "soundProfile": {
+    "character":      "inline4-turbo-vtec",
+    "rumbleHzScale":  0.5,
+    "raspKickRPM":    5200,
+    "turboLoad":      0.85,
+    "bovOnShift":     true
+  }
+}

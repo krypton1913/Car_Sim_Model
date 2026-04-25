@@ -1,0 +1,51 @@
+{
+  "id": "vw-golf-r",
+  "name": "VW Golf R",
+  "brand": "VOLKSWAGEN",
+  "model": "GOLF R · MK8.5",
+
+  "dimensions": {
+    "length": 4.295,
+    "width":  1.789,
+    "height": 1.458,
+    "wheelbase": 2.628
+  },
+
+  "mass": 1525,
+
+  "engine": {
+    "displayName": "2.0L TSI EA888 EVO4",
+    "powerPS":     333,
+    "powerRPM":    "5,600-6,500",
+    "torqueNm":    420,
+    "torqueRPM":   "2,100-5,500",
+    "redlineRPM":  6800,
+    "idleRPM":     800,
+    "cylinders":   4,
+    "aspiration":  "turbocharged",
+    "vtecRPM":     null
+  },
+
+  "performance": {
+    "zeroToHundredS": 4.6,
+    "topSpeedKmh":    250
+  },
+
+  "drivetrain": {
+    "type":       "AWD",
+    "gearRatios": [3.40, 2.10, 1.42, 1.03, 0.79, 0.65, 0.55],
+    "finalDrive": 4.06
+  },
+
+  "wheel": {
+    "radius": 0.337
+  },
+
+  "soundProfile": {
+    "character":      "inline4-turbo",
+    "rumbleHzScale":  0.55,
+    "raspKickRPM":    5000,
+    "turboLoad":      1.0,
+    "bovOnShift":     true
+  }
+}
